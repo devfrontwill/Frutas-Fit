@@ -9,13 +9,13 @@
 }
 
 .pessoa__imagem--roberta {
-    background: url(assets/img/pessoas/roberta.jpg) no-repeat center;
+    background: url(assets/img/pessoas/roberta.jpg);
 }
 
 .pessoa__imagem--marcela {
-    background: url(assets/img/pessoas/marcela.jpg');
+    background: url(assets/img/pessoas/marcela.jpg);
 }
 
 .pessoa__imagem--andreia {
-    background: url(assets/img/pessoas/andreia.jpg');
+    background: url(assets/img/pessoas/andreia.jpg);
 }
