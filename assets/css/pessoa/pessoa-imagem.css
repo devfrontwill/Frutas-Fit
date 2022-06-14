@@ -13,9 +13,9 @@
 }
 
 .pessoa__imagem--marcela {
-    background: url(assets/img/pessoas/marcela.jpg);
+    background: url(assets/img/pessoas/marcela.jpg) no-repeat center;
 }
 
 .pessoa__imagem--andreia {
-    background: url(assets/img/pessoas/andreia.jpg);
+    background: url(assets/img/pessoas/andreia.jpg) no-repeat center;
 }
