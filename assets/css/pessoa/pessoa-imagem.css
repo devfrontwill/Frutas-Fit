@@ -9,7 +9,7 @@
 }
 
 .pessoa__imagem--roberta {
-    background: url('img/pessoas/roberta.jpg');
+    background-image: url('pessoas/roberta.jpg');
 }
 
 .pessoa__imagem--marcela {
