@@ -2,23 +2,19 @@
     background: #e5e5e5;
     display: flex;
     flex-wrap: wrap;
-    padding: 5rem 0 0 5rem;
 }
 
-@media screen and (min-width 0) {
+@media screen and (min-width: 0) {
     .receitas {
-        padding: 5rem 1rem 0 1rem;
-        margin-right: 3rem;
+        padding: 5rem 0 0 1rem;
     }
 }
-
-@media screen and (min-width 768px) {
+@media screen and (min-width: 768px) {
     .receitas {
         padding: 5rem 0 0 2.5rem;
     }
 }
-
-@media screen and (min-width 992px) {
+@media screen and (min-width: 992px) {
     .receitas {
         padding: 5rem 0 0 5rem;
     }

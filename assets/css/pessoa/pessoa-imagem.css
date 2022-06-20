@@ -3,19 +3,19 @@
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 100%;
-    height: 250px;
+    height: 300px;
     margin: 0 auto;
-    width: 261px;
+    width: 280px;
 }
 
 .pessoa__imagem--roberta {
-    background: url(assets/img/pessoas/roberta.jpg)
+    background-image: url('../../img/pessoas/roberta.jpg');
 }
 
 .pessoa__imagem--marcela {
-    background: url(assets/img/pessoas/marcela.jpg)
+    background-image: url('../../img/pessoas/marcela.jpg');
 }
 
 .pessoa__imagem--andreia {
-    background: url(assets/img/pessoas/andreia.jpg)
+    background-image: url('../../img/pessoas/andreia.jpg');
 }

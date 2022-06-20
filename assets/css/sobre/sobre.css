@@ -1,6 +1,5 @@
 .sobre {
     text-align: center;
-    
 }
 
 @media screen and (min-width: 0) {
@@ -8,7 +7,6 @@
         padding: 2.5rem 1rem;
     }
 }
-
 @media screen and (min-width: 768px) {
     .sobre {
         padding: 2.5rem;
